@@ -1,6 +1,6 @@
 name: dartnissanconnect
 description: A fork of Tobiaswks dartnissanconnect lib for the NissanConnect API.
-version: 1.0.5
+version: 1.0.6
 homepage: https://github.com/Derich367/dartnissanconnect
 
 environment:
